@@ -1,4 +1,4 @@
-# rurall-assignment
+# Rurall-assignment
 ##  Import GPKG File in Python
 
 ### Description

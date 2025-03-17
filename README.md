@@ -6,7 +6,7 @@ This project allows you to:
 - Import and process **GPKG** files in Python.
 - Perform **data cleaning and analysis** with statistical techniques.
 - Apply **spatial interpolation** using *Ordinary Kriging* with `pykrige`.
-- Correlate results with an **average vegetation vigour index** calculated over the last year.
+- Correlate results with an **average vegetation vigour index** .
 ---
 
 ##  Functionality
